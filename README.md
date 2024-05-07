@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @m4csam1l1an
 - 👀 I’m interested in Software Development, Software Modifications,Project Management 
-- 🌱 I’m currently learning Software Development, Project Management at the Talent Garden Dublin Creating a HR Trainig Webapp using the Python Language in conjunction with the Django Framework & VS Code as the IDE
+- 🌱 I’m currently learning Software Development at Cenit College.
+- 🏢  Work experience Project Management at the Talent Garden Dublin Creating a HR Trainig Webapp using the Python Language in conjunction with the Django Framework & VS Code as the IDE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
